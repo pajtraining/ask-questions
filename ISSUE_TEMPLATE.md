@@ -1,4 +1,4 @@
-## New issue :boom: !
+## New question :boom: !
 
 Thank you for your interest in [my training projects](https://github.com/pajtraining/)! [I](https://github.com/pajanne/) will try my best to answer and help you!
 
